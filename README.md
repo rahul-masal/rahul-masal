@@ -16,7 +16,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/Rahul_Masal_"><img width="32px" alt="Twitter" title="Twitter" src="https://github.com/0xTRAW/0xTRAW/blob/main/.github/twitter.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/9Eg8NkqdEh" alt="Pentesting, Linux, Bug Bounty Pro Tips Discussion & Support Server"><img width="32px" src="https://github.com/0xTRAW/0xTRAW/blob/main/.github/discord.png"/></a>
+  <a href="https://discord.gg/#" alt="Pentesting, Linux, Bug Bounty Pro Tips Discussion & Support Server"><img width="32px" src="https://github.com/0xTRAW/0xTRAW/blob/main/.github/discord.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/rahul-masal-100009196/" alt="Traw's linkedin"><img width="32px" height="26px"  src="https://github.com/0xTRAW/0xTRAW/blob/main/.github/mylinkedinicon.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
