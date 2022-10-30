@@ -28,7 +28,7 @@
   <a href="https://www.youtube.com/c/knowinganddoing?sub_confirmation=1">
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.herokuapp.com/youtube/channel/subscribers/UCerLzeXdyXGaXvZx1FSfJ1w?color=a020f0&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=8f00ff"/></a> 
   <a href="https://www.youtube.com/c/knowinganddoing">
-    <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.herokuapp.com/youtube/channel/subscribers/UCerLzeXdyXGaXvZx1FSfJ1w?color=a020f0&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=8f00ff"/></a> 
+    <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCerLzeXdyXGaXvZx1FSfJ1w?color=%23E1AD0E&logo=video&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
    <img alt="follow twitter" title="Follow Twitter" src="https://img.shields.io/twitter/follow/Rahul_Masal_?color=%2355960&logo=person-fill&label=twitter&style=for-the-badge&labelColor=1DA1F2"/></a> 
   <a href="https://github.com/rahul-masal?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/github/stars/0xtraw?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
@@ -104,4 +104,4 @@
   
  </h3>
 
-
+ 
