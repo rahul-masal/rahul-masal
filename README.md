@@ -48,10 +48,10 @@
 
 <p align="center">
   <a href="https://github.com/rahul-masal/Linux-Commands"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rahul-masal&repo=Linux-Commands&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="Linux-Commands"></a>
-  <a href="https://github.com/rahul-masal/vim-cheatsheet-"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rahul-masal&repo=vim-cheatsheet&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="vim-cheatsheet"></a>
+  <a href="https://github.com/rahul-masal/vim-cheatsheet-"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rahul-masal&repo=vim-cheatsheet-&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="vim-cheatsheet"></a>
   <a href="https://github.com/rahul-masal/cron-cheatsheet"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rahul-masal&repo=cron-cheatsheet&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="cron-cheatsheet"></a>
-  <a href="https://github.com/rahul-masal/Grep-Cheatsheet"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rahul-masal&repo=Linux-Commands-A-Z&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="Grep-Cheatsheet"></a>
-  <a href="https://github.com/rahul-masal/batch-scripting"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=rahul-masal&repo=Linux-Command-Line-and-Shell-Scripting-Bible-3rd-edtion&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="batch-scripting"></a>
+  <a href="https://github.com/rahul-masal/Grep-Cheatsheet"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rahul-masal&repo=Grep-Cheatsheet&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="Grep-Cheatsheet"></a>
+  <a href="https://github.com/rahul-masal/batch-scripting"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=rahul-masal&repo=batch-scripting&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="batch-scripting"></a>
 </p>
 
 <p align="center">
@@ -99,7 +99,7 @@
 <h3 align="center">
   <img src="https://media.giphy.com/media/SEhNCww9vGLAc/giphy.gif" width="28">
   <a href="https://www.youtube.com/c/knowinganddoing?sub_confirmation=1">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.herokuapp.com/youtube/channel/subscribers/UC8VXjXD4_ahVoJY5a0AqOQw?color=a020f0&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=8f00ff"/></a> 
+    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.herokuapp.com/youtube/channel/subscribers/knowinganddoing?color=a020f0&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=8f00ff"/></a> 
  <img src="https://media.giphy.com/media/SEhNCww9vGLAc/giphy.gif" width="28">
   
  </h3>
